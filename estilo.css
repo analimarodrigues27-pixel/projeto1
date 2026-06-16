@@ -7,7 +7,7 @@ body{
     font-family: "Roboto Slab", serif;
 }
 .cabecalho{
-background-color: antiquewhite;
+background-color: rgb(235, 18, 202);
 text-align:center;
 padding: 30px;
-}
+*}
